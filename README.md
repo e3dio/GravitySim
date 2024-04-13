@@ -1,1 +1,5 @@
 # GravitySim
+
+```
+node gravity.js
+```
